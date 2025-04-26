@@ -16,10 +16,7 @@ import requests
 from datetime import datetime
 import smtplib
 import time
-
-# Your email credentials
-MY_EMAIL = "anooppython10@gmail.com"
-MY_PASSWORD = "friuscrreslnakzw"
+"
 
 # Your location
 MY_LAT = 17.275984
